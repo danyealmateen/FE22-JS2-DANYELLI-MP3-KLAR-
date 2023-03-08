@@ -1,3 +1,4 @@
+console.log(123);
 import anime from "/node_modules/animejs/lib/anime.es.js";
 import _ from "/node_modules/underscore/underscore-esm.js";
 

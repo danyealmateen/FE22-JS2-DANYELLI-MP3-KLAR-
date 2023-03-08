@@ -1,3 +1,4 @@
+console.log(123);
 let url = `https://della-311b1-default-rtdb.europe-west1.firebasedatabase.app/.json`;
 getProducts();
 let cartItems = JSON.parse(localStorage.getItem("cartItems"));
